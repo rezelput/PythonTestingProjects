@@ -2,7 +2,7 @@ import pygame
 import os
 import sys
 import tkinter as tk
-from ray_marching import *
+from marching import *
 from time import time
 from settings import *
 import control
