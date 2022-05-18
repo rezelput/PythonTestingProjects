@@ -103,7 +103,7 @@ if __name__ == '__main__':
 	screen.fill((200,120,250))
 	rounded_corners(screen,60)
 	aacircle(screen,100,100,100,(10,60,200))
-	aacircle(screen,80,80,80, 'red')
+	'aacircle(screen,80,80,80, )'
 	'aacircle(screen,30,20,80,(180,150,60))'
 	window.blit(screen,(50,50))
 	pygame.display.flip()
